@@ -18,7 +18,7 @@ dependencies {
   api("com.fasterxml.jackson.core:jackson-core:2.10.0")
   api("com.fasterxml.jackson.core:jackson-databind:2.10.0")
 
-  implementation("org.jsoup:jsoup:1.12.1")
+  implementation("org.jsoup:jsoup:1.14.3")
   implementation("net.iharder:base64:2.3.9")
 
   testImplementation("org.codehaus.groovy:groovy:2.5.5")
